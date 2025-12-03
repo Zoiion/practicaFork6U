@@ -93,3 +93,8 @@ Libro_Gomez
 "Libro 1" 
 "Libro 2" 
 "Libro 3" 
+
+===========
+LIBRO 1
+LIBRO 2
+LIBRO 3
